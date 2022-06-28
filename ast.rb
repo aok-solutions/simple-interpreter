@@ -1,0 +1,6 @@
+require_relative 'ast/assignment_expression'
+require_relative 'ast/identifier'
+require_relative 'ast/statement_list'
+require_relative 'ast/if_statement'
+require_relative 'ast/print_statement'
+require_relative 'ast/comparison_operators/equals'
